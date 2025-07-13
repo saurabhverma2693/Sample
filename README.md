@@ -1,2 +1,3 @@
-My New Repos named as Sample
-AuthorL: Saurabh Verma
+My New Repos named as Sample.
+<br>
+Author: Saurabh Verma
